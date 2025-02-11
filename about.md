@@ -3,21 +3,8 @@ title: About
 layout: page
 permalink: /about
 ---
-This is an example of a file written in [Markdown](https://daringfireball.net/projects/markdown/). Notice how
-this file lacks the normal HTML tags you may be used to seeing on website source code. Instead there is a simple syntax for applying most of the basic HTML formatting we use every day.
+# About 
 
-## This is what an h2 element looks like in Markdown
+The FSW Writing Center Resource Library is home to handouts, guides, and tutorials by FSW Writing Center's staff. This library is a constant work-in-progress, as we regularly update our materials and create new guides that support updates to course content. 
 
-Paragraphs are just text without `<p>` tags. Take a look at my unordered (bulleted) list below:
-
-- list item one
-- list item two
-- list item three
-
-And here's an ordered (numbered) list:
-
-1. List item one
-1. list item two
-1. list item three
-
-(You can use any number and the script will convert the numbers to the correct ordering.)
+You can meet with Writing Center staff in-person at our Charlotte, Collier, and Lee campuses, or online from anywhere in the world (*with a decent internet connection*). 
