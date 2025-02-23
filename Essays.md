@@ -11,7 +11,6 @@ Review different essay and assignment formats, including:
 - Argumentative 
     - Rogerian 
     - Toulmin 
-    - Classical (Aristotelian)
 - Literary analysis 
 - Research papers
 - Rhetorical analysis 
