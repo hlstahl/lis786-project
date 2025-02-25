@@ -2,6 +2,7 @@
 title: MLA
 category: formatting
 image: https://lh3.googleusercontent.com/pw/AP1GczNqe0MElSpmGCs6MzwbBg1zIJI3iCR8etIQeVjGMlNnLlHRrF6gvSKCI19jSIRNI_D5mzcvCkIBHI2Yz6slgG5irKORgtoW8apEP8l-JmGmIwj3MU4=w2400
+alt: Basics of MLA include one inch margins, Times New Roman font size 12, double spacing, last name and page number in top right, and indeting the first line of each paragraph 1/2 inch.
 ---
 Placeholder text explaining the basics of MLA format. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 

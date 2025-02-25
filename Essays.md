@@ -1,11 +1,11 @@
 ---
-title: Essay Formats
+title: Essays
 layout: page
 permalink: /essays
 ---
-# Essay Formats 
+# Essays 
 
-Review different essay and assignment formats, including: 
+Review different essay and assignment types, including: 
 
 - Argumentative 
 - Literary analysis 
