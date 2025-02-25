@@ -7,10 +7,7 @@ permalink: /essays
 
 Review different essay and assignment formats, including: 
 
-- Annotated bibliographies
 - Argumentative 
-    - Rogerian 
-    - Toulmin 
 - Literary analysis 
 - Research papers
 - Rhetorical analysis 
