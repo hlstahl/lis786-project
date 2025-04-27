@@ -18,6 +18,6 @@ image_url: https://images.pexels.com/photos/733856/pexels-photo-733856.jpeg
 {% for resource in site.resources %}
     <h3>{{ resource.title }}</h3>
     <p><img src="{{ resource.image }}" alt="{{ resource.alt }}"/></p>
-    <p>{{ resource.content }}</p>
+    <p>{{ resource.excerpt }}</p>
     <p>Category: {{ resource.category }}</p>
 {% endfor %}
