@@ -16,7 +16,8 @@ h2 {
     font-weight: bold;
 }
 
-img.listing {
-    width: 250px;
-    float: left;
+.listing {
+    display: block;
+    width: 200px;
+    padding: 5px;
 }
