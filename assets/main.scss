@@ -16,8 +16,14 @@ h2 {
     font-weight: bold;
 }
 
-.listing {
-    display: inline-block;
+img.listing {
+    display: flex;
+    float: left;
     width: 200px;
     padding: 5px;
+}
+
+p.listing {
+    display: flex;
+    float: right;
 }
