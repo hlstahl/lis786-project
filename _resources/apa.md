@@ -1,7 +1,7 @@
 ---
 title: APA
 category: formatting
-image: /lis786-project/assets/images/APA Formatting.png
+image: /lis786-project/assets/images/Formatting.png
 alt: A colorful notebook titled APA Formatting with the FSW Writing Center
 ---
 Placeholder text explaining the basics of APA format. To be updated at a later date. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
