@@ -14,8 +14,9 @@ image_url: https://images.pexels.com/photos/733856/pexels-photo-733856.jpeg
     </ul>
 </p>
 
-<h2>Writing Resources</h2>
+<h2>Recent Writing Resources</h2>
 {% for resource in site.resources %}
+    <hr>
     <h3>{{ resource.title }}</h3>
     <p><img src="{{ resource.image }}" alt="{{ resource.alt }}"/></p>
     <p>{{ resource.excerpt }}</p>
