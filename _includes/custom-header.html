@@ -4,53 +4,30 @@
   <meta charset="UTF-8">
   <title>{{ site.title }}</title>
   <style>
-    * {
-      box-sizing: border-box;
-    }
-
     .header {
-      display: flex;
-      align-items: center;
-      padding: 10px 20px;
-      background-color: #ebf9f8;
-      flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+        padding: 10px 20px;
+        background-color: #ebf9f8;
     }
 
     .header img.logo {
-      width: 100px;
-      height: auto;
-      margin-right: 20px;
+        width: 100px;
+        height: auto;
+        margin-right: 20px;
     }
 
     .header .title {
-      font-size: 24px;
-      font-weight: bold;
-      color: #000000;
-      flex: 1;
-      min-width: 200px;
-    }
-
-    @media (max-width: 600px) {
-      .header {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-
-      .header img.logo {
-        margin-right: 0;
-        margin-bottom: 10px;
-      }
-
-      .header .title {
-        font-size: 20px;
-      }
+        font-size: 24px;
+        font-weight: bold;
+        color: #000000;
     }
   </style>
 </head>
 <body>
   <header class="header">
     <img src="/lis786-project/assets/images/FSW Writing Center.png" alt="Logo" class="logo">
-    <div class="title">Your Website Title</div>
+    <div class="title">{{ site.title }}</div>
   </header>
 </body>
 </html>
