@@ -1,10 +1,9 @@
 ---
-title: MLA
+title: MLA In Text Citations
 category: formatting
 image: /lis786-project/assets/images/MLA Basics.png
 alt: Basics of MLA include one inch margins, Times New Roman font size 12, double spacing, last name and page number in top right, and indeting the first line of each paragraph 1/2 inch.
 ---
-## MLA In Text Citations
 
 In MLA, the in-text citation can look a couple different ways. It can come at the end of the sentence after a quote or can be part of the sentence itself. Either way, it tells the reader where to find the source for the quote on your Works Cited page which gives more detailed information about the source. 
 

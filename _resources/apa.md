@@ -1,11 +1,9 @@
 ---
-title: APA
+title: In Text Citations in APA
 category: formatting
 image: /lis786-project/assets/images/Formatting.png
 alt: A colorful notebook titled APA Formatting with the FSW Writing Center
 ---
-
-## In Text Citations in APA
 
 In-text citations in APA format can look a couple of different ways, but they’re pretty simple. When they come at the end of the sentence, they include the author’s last name, the publication date, and the page number (for direct quotes). Page numbers are not required for paraphrases, but they are encouraged.  
 
