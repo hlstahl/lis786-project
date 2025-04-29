@@ -3,49 +3,6 @@
 
 @import "{{ site.theme }}";
 
-* {
-    box-sizing: border-box;
-  }
-
-  .header {
-    display: flex;
-    align-items: center;
-    padding: 10px 20px;
-    background-color: ##ebf9f8;
-    flex-wrap: wrap;
-  }
-
-  .header img.logo {
-    width: 100px;
-    height: auto;
-    margin-right: 20px;
-  }
-
-  .header .title {
-    font-size: 24px;
-    font-weight: bold;
-    color: #333;
-    flex: 1;
-    min-width: 200px;
-  }
-
-  @media (max-width: 600px) {
-    .header {
-      flex-direction: column;
-      align-items: flex-start;
-    }
-
-    .header img.logo {
-      margin-right: 0;
-      margin-bottom: 10px;
-    }
-
-    .header .title {
-      font-size: 20px;
-    }
-  }
-
-
 body {
     background-color: #ebf9f8;
     font-family: 'Trebuchet MS', sans-serif;
