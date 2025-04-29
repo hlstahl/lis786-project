@@ -14,7 +14,7 @@ Topics you'll find here include:
 
 {% for resource in site.resources %}
 {% if resource.category == 'foundations' %}
-<h3>{{ resource.title }}</h3>
+[<h3>{{ resource.title }}</h3>]({% link page.path %})
 <p><img src="{{ resource.image }}" alt="{{ resource.alt }}"/></p>
 <p>{{ resource.content }}</p>
 <p>Category: {{ resource.category }}</p>
