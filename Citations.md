@@ -9,7 +9,7 @@ permalink: /citations
     {% if resource.category == 'formatting' %}
         <br>
         <hr>
-        <h3><a href="{{ resource.title }}</h3>
+        <h3>{{ resource.title }}</h3>
         <p><img class="listing" src="{{ resource.image }}" alt="{{ resource.alt }}"/></p>
         <p class="listing">{{ resource.excerpt }}</p>
         <p>Category: {{ resource.category }}</p>
