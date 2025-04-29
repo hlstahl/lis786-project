@@ -3,6 +3,7 @@ theme: minima
 collections:
   resources:
     output: true
+    permalink: /:collection/:name
 
 
 defaults:

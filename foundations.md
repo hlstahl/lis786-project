@@ -13,10 +13,12 @@ Topics you'll find here include:
 - Annotated bibliography
 
 {% for resource in site.resources %}
-{% if resource.category == 'foundations' %}
-<h3><a href="{{ resource.url }}">{{ resource.title }}</a></h3>
-<p><img src="{{ resource.image }}" alt="{{ resource.alt }}"/></p>
-<p>{{ resource.content }}</p>
-<p>Category: {{ resource.category }}</p>
-{% endif %}
+  {% if resource.category == 'foundations' %}
+    <a href="{{ resource.url }}" class="resource-card">
+      <h3>{{ resource.title }}</h3>
+      <p><img src="{{ resource.image }}" alt="{{ resource.alt }}"/></p>
+      <p>{{ resource.content }}</p>
+      <p>Category: {{ resource.category }}</p>
+    </a>
+  {% endif %}
 {% endfor %}

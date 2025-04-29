@@ -1,7 +1,6 @@
 ---
 title: Annotated Bibliography
 category: foundations
-layout: page
 image: /lis786-project/assets/images/Annotated.png
 alt: An antique typewriter beside the title how to write an annotated bibliography 
 ---
